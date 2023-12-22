@@ -6,8 +6,8 @@ But how can we extract the intensity and sentiment of endings from the data that
 
 To give you more visibility on the matter, here’s an example that’ll surely help. We will take the example of the world-renowned masterpiece, The Lion King. 
 
-![Wiki](/assets/images/Warning_Symbol.png)
-https://pa1.narvii.com/6384/b8ec2ccdb91f2623f22202c9b56e9637cd59abf3_hq.gif
+![Wiki](/assets/images/Warning_Symbol.png)       
+[Warning Link](https://pa1.narvii.com/6384/b8ec2ccdb91f2623f22202c9b56e9637cd59abf3_hq.gif)
 
 _"Scar survives the fall, but is attacked and killed by the hyenas, who overheard his attempt to betray them. With Scar and the hyenas gone, Simba descends from the top of Pride Rock where he is acknowledged by the pride as the rain falls again. Sometime later, Pride Rock is restored to its former glory and Simba looks down happily at his kingdom with Nala, Timon, and Pumbaa by his side; Rafiki presents Simba and Nala's newborn cub to the inhabitants of the Pride Lands and the circle of life continues."_
 
