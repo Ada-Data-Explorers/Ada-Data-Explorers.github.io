@@ -13,7 +13,7 @@ In our case, an R^2 value of 0.29 means that approximately 29% of the variabilit
 
 In the graph below, we presented the top 20 (in green) and worst 21 (in red) features that influence movie score the most positively and negatively respectively. Note that the y axis represents the weight of that parameter in the linear regression, so the higher the absolute value, the more influence it has.
 
-![Weights](/assets/images/Feature Weights-2.png)
+{% include folder/new.html %}
 
 ## Building our Formula for a Great Movie
 
