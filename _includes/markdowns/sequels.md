@@ -4,7 +4,7 @@ Let's now venture into the realm of sequels. A movie's typical duration, spannin
 
 Firstly, we compare sequels with movies that are not sequels to see if the score distributions are significantly different in the two groups. 
 
-### Box Plot Sequels
+{% include folder/sequel_non_sequel.html %}
 
 The above box plots seem to show that sequels boast significantly better movie scores than their non-sequel counterparts. However, it is important to note that there are much fewer sequels, prompting a statistical investigation. Consequently, we perform a t-test to back up our findings with some statistics. With an extremely small p-value of  e-38, much smaller than a typical significance level of 0.05, and a t-statistic of 12.8826, we find that there is a significant difference between the two populations’ scores.
 
