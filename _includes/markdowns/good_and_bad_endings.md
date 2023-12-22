@@ -6,8 +6,8 @@ But how can we extract the intensity and sentiment of endings from the data that
 
 To give you more visibility on the matter, here’s an example that’ll surely help. We will take the example of the world-renowned masterpiece, The Lion King. 
 
-![Wiki](/assets/images/Warning_Symbol.png)
-https://pa1.narvii.com/6384/b8ec2ccdb91f2623f22202c9b56e9637cd59abf3_hq.gif
+![Wiki](/assets/images/Warning_Symbol.png)       
+[Warning Link](https://pa1.narvii.com/6384/b8ec2ccdb91f2623f22202c9b56e9637cd59abf3_hq.gif)
 
 _"Scar survives the fall, but is attacked and killed by the hyenas, who overheard his attempt to betray them. With Scar and the hyenas gone, Simba descends from the top of Pride Rock where he is acknowledged by the pride as the rain falls again. Sometime later, Pride Rock is restored to its former glory and Simba looks down happily at his kingdom with Nala, Timon, and Pumbaa by his side; Rafiki presents Simba and Nala's newborn cub to the inhabitants of the Pride Lands and the circle of life continues."_
 
@@ -15,7 +15,7 @@ You can find above the text that our method extracts as the “ending”. It is 
 
 We apply this method to all our movies and plot the following heatmap of ending sentiment versus movie score.
 
-### HEATMAP SENTIMENT
+{% include folder/heatmap_ending_compound_sentiment.html %}
 
 Intriguingly, the heatmap reveals the presence of hot spots, the movie endings are agglomerated in 3 spots, very negative, very positive, or neutral. Moreover, this graph shows little to no correlation between the movie score and the ending’s sentiment, whether negative or positive, as data suggest a consistent dispersion of movie points around the score of 65. While this plot reinforces the notion that movie scores, in general, aren't strongly correlated with ending sentiment, it doesn't necessarily contradict our earlier hypothesis. Indeed, we expected certain genres such as Horror movies to be more prone to a side of the spectrum. To put this claim to the test, let's delve into the sentiment distribution within different genres!
 
@@ -25,7 +25,7 @@ Our initial attempt to assess correlations using Pearson Correlations faced chal
 
 Then to push our analysis further, we considered the ending’s intensity as an influencer of movie score. Same as before, we plot movie density as a function of score and sentiment intensity.
 
-### HEATMAP SENTIMENT INTENSITY 
+{% include folder/heatmap_sentiment_intensity.html %}
 
 Once again, no clear pattern comes out of this plot other than that the overwhelming majority of movies are categorized as high-intensity. This is not great for our analysis as unbalanced data limits our insights. Still, we compute a statistical test notably a Pearson correlation and Mutual Information to test for non linear correlations. 
 

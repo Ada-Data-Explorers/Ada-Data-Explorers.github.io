@@ -15,7 +15,8 @@ As you can see, some of these ethnicities seem similar, like “American” and 
 
 Next, we define a diversity threshold: movies with at least three different ethnicities are considered diverse. 
 
-### GRAPH HISTOGRAM 
+{% include folder/unique_ehnicity_tags_per_movie.html %} 
+{% include folder/ehnicity_tags_per_movie.html %} 
 
 As seen on the left histogram, movies all have more than 3 different ethnicities. However, that is not actually true. For example, some movies say they cast actors from 2 ethnicities “American German and German American”, but these are technically the same, so they should not be counted twice. Which is why we also established the histogram on the right, after having removed these duplicates. We notice that most movies cast actors from 2 to 4 different ethnicities. This distribution reflects producers’ effort towards making their movies more inclusive, grouping actors from different cultural backgrounds. 
 
