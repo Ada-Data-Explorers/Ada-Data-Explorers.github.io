@@ -17,7 +17,7 @@ Confronted with these findings, a question emerges: Could the prolific release o
 
 ![Box Plots All](/assets/images/box_plot_of_movie_score_per_genre.jpg)
 
-### [Stats Table All Movies]
+{% include folder/general_stats_df.html %}
 
 As we can see in the boxplots and table above, the War film, Animation, and Period Piece genres have the three highest median scores, while Drama and Comedy have amongst the worst medians. Moreover, The Godfather, a movie that belongs to the Crime, Drama, Family, and Period Piece genres, has the maximum score, and it’s a Comedy movie, Underground Comedy Movie, that has the worst score. 
 Could this be due to the fact that the number of movies per genre is not the same? Are our results biased, invalid? 
@@ -30,13 +30,13 @@ To answer this concern, we repeat the analysis twice:
 
 ![box_plot_of_movie_score_per_genre_top_20.png](/assets/images/box_plot_of_movie_score_per_genre_top_20.png)
 
-### [Stats Table Top 20% Movies]
+{% include folder/general_stats_df20.html %}
 
 2. Considering only 518 randomly picked movies for each genre
 
 ![box_plot_of_movie_score_per_genre_random_518.jpg](/assets/images/box_plot_of_movie_score_per_genre_random_518.png)
 
-### [Stats Table Random 518 Movies]
+{% include folder/general_stats_df518.html %}
 
 Applying both methods, Animation, Fantasy and War film genres still have the highest means and median, and Drama and Comedy still have among the worst means and medians.
 
