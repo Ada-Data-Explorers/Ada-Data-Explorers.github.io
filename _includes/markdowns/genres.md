@@ -28,15 +28,14 @@ To answer this concern, we repeat the analysis twice:
 
 1. Considering only the movies in the top 20 percentile for each genre
 
-### [Box Plot Top 20% Movies]
 ![box_plot_of_movie_score_per_genre_top_20.png](/assets/images/box_plot_of_movie_score_per_genre_top_20.png)
 
 ### [Stats Table Top 20% Movies]
 
 2. Considering only 518 randomly picked movies for each genre
 
-### [Box Plot Random 518 Movies]
 ![box_plot_of_movie_score_per_genre_random_518.jpg](/assets/images/box_plot_of_movie_score_per_genre_random_518.png)
+
 ### [Stats Table Random 518 Movies]
 
 Applying both methods, Animation, Fantasy and War film genres still have the highest means and median, and Drama and Comedy still have among the worst means and medians.
