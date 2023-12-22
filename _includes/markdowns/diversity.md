@@ -1,10 +1,10 @@
-# Movie Diversity 
+## Movie Diversity 
 
 Ready to spice up our movie formula? Let’s move on to a topic that is becoming increasingly pivotal with time: movie diversity. When watching a movie, we want to match with the characters which is facilitated by physical resemblance, common origins, or similar gender identities. So come with us to analyze how we measure diversity, and how it contributes to movie success. 
 
 First, please note that for this study, we needed more information about the movie actors, so we scraped the Wikidata website. The dataset generated includes information about actors’ ethnicity and gender: https://query.wikidata.org/sparql. 
 
-## Ethnicities: 
+# Ethnicities: 
 Now, how diverse do you think are actors’ ethnicities in the movie industry? One would have thought that the most common ethnicity is “White” (human racial classification), but it turns out that it’s actually “Indian”. 
 
 
@@ -28,7 +28,7 @@ Join us now while we delve into another integral inclusivity feature: gender rep
 
 Below, you can see the number of movies per percentage of male actors. It looks like a gaussian distribution centered around 0.65, which explains the 88.62% value.
 
-![IMAGE NAME](/../folder/distribution_of_movie_score_per_genre.png)
+![IMAGE NAME](/_includes/folder/distribution_of_movie_score_per_genre.png)
 
 We then obtained surprising results: gender imbalanced movies had an average mean movie score within [67.6733, 68.5867], which is higher than [65.6577, 67.1005], within which gender balanced movies’ mean movie score lie, both with 95% confidence. 
 

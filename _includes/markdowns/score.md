@@ -10,7 +10,7 @@ like Titanic and Star Wars have had on people across the globe. However, to trul
 they must be adjusted for inflation. Then we can uncover some of the hidden gems of the past that most of us have never
 heard of. In fact, as of 2023 *Gone in the Wind*, a movie released in 1939 holds the number one spot at a whopping 4
 billion dollars:
-![Highest grossing movies of all time](images/highest_grossing_films.png)
+![Highest grossing movies of all time](/images/highest_grossing_films.png)
 
 Maybe this is interesting because it shows that seven of the most profitable movies were not in the 21st
 century ([Wikipedia link](https://en.wikipedia.org/wiki/List_of_highest-grossing_films))

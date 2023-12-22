@@ -1,4 +1,4 @@
-# What makes a movie truly great?
+## What makes a movie truly great?
 
 ## Introduction
 
