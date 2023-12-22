@@ -58,7 +58,7 @@ While it is interesting to discover the positive influences, it is just as impor
 122. Indie (-1.396065)
 123. year (-2.067119)
 
-![Wiki](/assets/images/Feature Weights-2.png)
+![Weights](/assets/images/Feature Weights-2.png)
 
 ## Building our Formula for a Great Movie
 
