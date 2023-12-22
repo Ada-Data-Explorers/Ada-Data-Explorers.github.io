@@ -11,54 +11,9 @@ The R-squared value is a statistical measure that represents the proportion of t
 
 In our case, an R^2 value of 0.29 means that approximately 29% of the variability in movie scores can be explained by the features included in our linear regression model. While it doesn't account for the entirety of the variance, it indicates a substantial portion of the variation is accounted for, providing a reasonable level of confidence in the results obtained. But what are the findings?
 
-Firstly, here are the top 20 features that influence movie score the most positively. Note that the numerical value represents the weight of that parameter in the linear regression, so the higher the value, the more influence it has.
+In the graph below, we presented the top 20 (in green) and worst 21 (in red) features that influence movie score the most positively and negatively respectively. Note that the y axis represents the weight of that parameter in the linear regression, so the higher the absolute value, the more influence it has.
 
-Top 20 features:
-1. runtime (1.543617)
-2. ethnic_count (1.322205)
-3. Drama (1.080979)
-4. Japan (1.047128)
-5. Animation (0.987977)
-6. United States of America (0.903447)
-7. Bollywood (0.779347)
-8. Hong Kong (0.677024)
-9. Romance Film (0.672329)
-10. Science Fiction (0.657085)
-11. Fantasy (0.648715)
-12. China (0.639415)
-13. French Language (0.604814)
-14. Crime Fiction (0.549842)
-15. Buddy film (0.541935)
-16. Telugu language (0.537399)
-17. Spanish Language (0.497812)
-18. Coming of age (0.496295)
-19. Mystery (0.462708)
-20. German Language (0.459663)
-
-While it is interesting to discover the positive influences, it is just as important to know what you should avoid. As such, we would like to present these!
-103. Tamil Language (-0.100697)
-104. Horror (-0.114992)
-105. World cinema (-0.117842)
-106. sentiment_intensity (-0.136110)
-107. Music (-0.140591)
-108. Martial Arts Film (-0.158853)
-109. Switzerland (-0.186442)
-110. Mexico (-0.204089)
-111. Teen (-0.239078)
-112. Italy (-0.262264)
-113. Action (-0.275028)
-114. Romantic drama (-0.367996)
-115. Canada (-0.368863)
-116. Crime Thriller (-0.413367)
-117. Russia (-0.427055)
-118. Japanese Movies (-0.880179)
-119. Chinese Movies (-1.008829)
-120. India (-1.030230)
-121. Hindi Language (-1.176374)
-122. Indie (-1.396065)
-123. year (-2.067119)
-
-## TODO FEATURE WEIGHT PLOT
+![Weights](/assets/images/Feature Weights-2.png)
 
 ## Building our Formula for a Great Movie
 
