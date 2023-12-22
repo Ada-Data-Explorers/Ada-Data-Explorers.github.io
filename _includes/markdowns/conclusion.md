@@ -82,8 +82,8 @@ As we bring this cinematic journey to a close, we invite you, the reader, to ref
 
 As the credits roll on this data story, we thank you for joining us!
 
-Anthony Kalaydjian
-Anton Balykov
-Yara Sabbagha
-Eric Saikali
+Anthony Kalaydjian,
+Anton Balykov,
+Yara Sabbagha,
+Eric Saikali,
 Aymeric de Chillaz
