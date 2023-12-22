@@ -7,8 +7,8 @@ categories: jekyll
 banner:
   video: /assets/videos/nolan.mp4
   loop: true
-  volume: 0.4
-  start_at: 8.5
+  volume: 0.1
+  start_at: 0
   image: 
   opacity: 0.618
   background: "#000"
@@ -20,6 +20,14 @@ tags:
 top: 20
 sidebar: []
 ---
+{% include markdowns/great_movie.md %}
+{% include markdowns/score.md %}
+{% include markdowns/small_features.md %}
 {% include markdowns/genres.md %}
+{% include markdowns/diversity.md %}
+{% include markdowns/sequels.md %}
+{% include markdowns/famous_actors_producers.md %}
+{% include markdowns/good_and_bad_endings.md %}
+
 
 
