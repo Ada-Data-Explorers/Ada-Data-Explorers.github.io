@@ -1,4 +1,4 @@
-### Famous Actors
+# Famous Actors
 Intuitively, the cast of a movie has a significant influence on its success. Indeed, if an A-list actor announces their new movie then many of their fans will rush to cinemas to watch the newest masterpiece. This is especially true for successful actor duos. For instance, if the funniest duo (in our opinion of course😂), The Rock and Kevin Hart, act in a movie, not only would we all go watch it, exploding the box office revenue, but also the movie would naturally be a success.
 
 In light of this information, we want to come up with a metric for measuring an actor’s popularity. Ideally, we would like to use Google Trends however many movies in our dataset were made long before social media 😅. But fear not, as we have found a clever solution to solve this issue
@@ -27,7 +27,7 @@ The results when considering a single actor are quite impressive. In other words
 
 These findings underscore the significant influence that actors can wield in shaping a movie's success. Shedding light on why some of them are paid so well!
 
-### Famous Producers
+# Famous Producers
 
 Behind every good movie is a good producer, right? This leads us to this new analysis, revolving around Producers’ Fame. 
 
