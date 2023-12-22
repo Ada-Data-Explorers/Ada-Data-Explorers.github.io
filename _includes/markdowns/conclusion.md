@@ -11,7 +11,7 @@ The R-squared value is a statistical measure that represents the proportion of t
 
 In our case, an R^2 value of 0.29 means that approximately 29% of the variability in movie scores can be explained by the features included in our linear regression model. While it doesn't account for the entirety of the variance, it indicates a substantial portion of the variation is accounted for, providing a reasonable level of confidence in the results obtained. But what are the findings?
 
-Firstly, here are the top 20 features that influence movie score the most positively. Note that the numerical value represents the weight of that parameter in the linear regression, so the higher the value, the more influence it has.
+Firstly, here are the top 20 features (in green in the plot) that influence movie score the most positively. Note that the numerical value represents the weight of that parameter in the linear regression, so the higher the value, the more influence it has.
 
 Top 20 features:
 1. runtime (1.543617)
@@ -35,7 +35,7 @@ Top 20 features:
 19. Mystery (0.462708)
 20. German Language (0.459663)
 
-While it is interesting to discover the positive influences, it is just as important to know what you should avoid. As such, we would like to present these!
+While it is interesting to discover the positive influences, it is just as important to know what you should avoid (in red in the plot). As such, we would like to present these!
 103. Tamil Language (-0.100697)
 104. Horror (-0.114992)
 105. World cinema (-0.117842)
@@ -58,7 +58,7 @@ While it is interesting to discover the positive influences, it is just as impor
 122. Indie (-1.396065)
 123. year (-2.067119)
 
-## TODO FEATURE WEIGHT PLOT
+![Wiki](/assets/images/Feature Weights-2.png)
 
 ## Building our Formula for a Great Movie
 
