@@ -2,7 +2,7 @@
 
 Ready to spice up our movie formula? Let’s move on to a topic that is becoming increasingly pivotal with time: movie diversity. When watching a movie, we want to match with the characters which is facilitated by physical resemblance, common origins, or similar gender identities. So come with us to analyze how we measure diversity, and how it contributes to movie success. 
 
-First, please note that for this study, we needed more information about the movie actors, so we scraped the Wikidata website. The dataset generated includes information about actors’ ethnicity and gender: https://query.wikidata.org/sparql. 
+First, please note that for this study, we needed more information about the movie actors, so we scraped the Wikidata website. The dataset generated includes information about actors’ ethnicity and gender: [wiki data sparql link](https://query.wikidata.org/sparql). 
 
 ## Ethnicities: 
 Now, how diverse do you think are actors’ ethnicities in the movie industry? One would have thought that the most common ethnicity is “White” (human racial classification), but it turns out that it’s actually “Indian”. 
