@@ -32,7 +32,7 @@ Below, you can see the number of movies per percentage of male actors. It looks 
 
 We then obtained surprising results: gender imbalanced movies had an average mean movie score within [67.6733, 68.5867], which is higher than [65.6577, 67.1005], within which gender balanced movies’ mean movie score lie, both with 95% confidence. 
 
-{% include folder/gender_balance.html %}
+{% include folder/gender_balance.png %}
 
 So till now, movies with more gender imbalance have been more successful. However, this is unethical, and in a world where we are all constantly fighting for equal gender rights and representation, we will not encourage producing movies with more male actors, than female actresses. We advocate for a diverse and gender inclusive and balanced filmmaking industry that is more creative and authentic, that reflects our society and that connects with a broader and more diverse audience. 
 
