@@ -10,7 +10,7 @@ The above box plots seem to show that sequels boast significantly better movie s
 
 Adding another layer to our analysis, we are interested in comparing how well prequels perform compared to sequels within a movie series. To analyze this we subtract the prequel’s score from all the movies that came after it in a movie series. This yields very interesting results as we can see in the following plot that the overwhelming majority of sequels fall short of their predecessors. This paradoxical observation might be attributed to the perception that movie series lack creativity, thus influencing critics to assign lower ratings.
 
-# Histogram
+{% include folder/score_difference.html %}
 
 Our findings are captivating because they paint a nuanced relationship between sequels and movie scores. We saw that sequels are more likely to have higher scores than their counterparts. Yet, we found that sequels generally underperform compared to their prequels. These insights seem contradictory right? A possible explanation would be that a movie is more likely to have a sequel if the previous one was received well. Therefore, merely creating a sequel isn't a guaranteed formula for success; however, if the prequel garnered a positive score, it might offer a relatively secure path.
 
