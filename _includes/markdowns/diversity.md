@@ -27,7 +27,7 @@ Now, does being more inclusive mean being more successful? It seems like it! Aft
 Join us now while we delve into another integral inclusivity feature: gender representation. Movies most often mirror society, and its dynamics. As gender equality gained importance in real life, it also did in movies, moving from traditional roles to more inclusive and nuanced ones. Again, for this analysis, we defined a range determining if a movie is balanced or imbalanced: if the proportion of male actors is between 0.4 and 0.6, the film is considered balanced, otherwise it is imbalanced. It turns out that 11.38% of the movies are gender imbalanced in favor of women, and 88.62% are gender imbalanced in favor of men. 
 
 Below, you can see the number of movies per percentage of male actors. It looks like a gaussian distribution centered around 0.65, which explains the 88.62% value.
-![THANKS ANTHONY](https://github.com/Ada-Data-Explorers/Ada-Data-Explorers.github.io/tree/master/assets/images/distribution_of_movie_score_per_genre.png)
+![THANKS ANTHONY](/assets/images/needed.jpg)
 
 We then obtained surprising results: gender imbalanced movies had an average mean movie score within [67.6733, 68.5867], which is higher than [65.6577, 67.1005], within which gender balanced movies’ mean movie score lie, both with 95% confidence. 
 
