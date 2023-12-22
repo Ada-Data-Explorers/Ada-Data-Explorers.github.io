@@ -18,7 +18,7 @@ banner:
   subheading_style: "color: gold"
 tags: 
 top: 20
-sidebar: [toc]
+sidebar: []
 ---
 
 
