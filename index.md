@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: 
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -20,6 +20,6 @@ tags:
 top: 20
 sidebar: []
 ---
-
+{% include markdowns/genres.md %}
 
 
