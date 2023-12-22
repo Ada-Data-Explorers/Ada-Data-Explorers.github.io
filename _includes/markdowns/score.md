@@ -10,9 +10,110 @@ like Titanic and Star Wars have had on people across the globe. However, to trul
 they must be adjusted for inflation. Then we can uncover some of the hidden gems of the past that most of us have never
 heard of. In fact, as of 2023 *Gone in the Wind*, a movie released in 1939 holds the number one spot at a whopping 4
 billion dollars:
-![Wiki](/assets/images/gross_wiki_dark.png)
+<table style="margin:auto; margin:auto;">
+<caption><span class="nowrap">Highest-grossing films as of 2022<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"></sup> adjusted for inflation<sup id="cite_ref-Guinness_2015_117-0" class="reference"></sup></span><sup class="reference" id="ref_Inflation"></sup>
+</caption>
+<tbody><tr>
+<th scope="col">Rank
+</th>
+<th scope="col">Title
+</th>
+<th scope="col" data-sort-type="currency"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Worldwide gross<br><span style="font-size:85%;">(2022 $)</span></div>
+</th>
+<th scope="col">Year
+</th></tr>
+<tr>
+<td>1
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Gone_with_the_Wind_(film)" title="Gone with the Wind (film)">Gone with the Wind</a></i>
+</th>
+<td style="text-align:right;">$4,192,000,000
+</td>
+<td style="text-align:center;">1939
+</td></tr>
+<tr>
+<td>2
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">Avatar</a></i>
+</th>
+<td style="text-align:right;"><sup class="reference plainlinks nourlexpansion" id="ref_Avatar"></sup>$3,824,000,000
+</td>
+<td style="text-align:center;">2009
+</td></tr>
+<tr>
+<td>3
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a></i>
+</th>
+<td style="text-align:right;"><span style="display:none">$2,516,000,000</span><sup class="reference plainlinks nourlexpansion" id="ref_Titanic-b"></sup>$3,485,000,000
+</td>
+<td style="text-align:center;">1997
+</td></tr>
+<tr>
+<td>4
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Star_Wars_(film)" title="Star Wars (film)">Star Wars</a></i>
+</th>
+<td style="text-align:right;">$3,443,000,000
+</td>
+<td style="text-align:center;">1977
+</td></tr>
+<tr>
+<td>5
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Avengers:_Endgame" title="Avengers: Endgame">Avengers: Endgame</a></i>
+</th>
+<td style="text-align:right;"><sup class="reference plainlinks nourlexpansion" id="ref_Avengers_Endgame"></sup>$3,165,000,000
+</td>
+<td style="text-align:center;">2019
+</td></tr>
+<tr>
+<td>6
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/The_Sound_of_Music_(film)" title="The Sound of Music (film)">The Sound of Music</a></i>
+</th>
+<td style="text-align:right;">$2,884,000,000
+</td>
+<td style="text-align:center;">1965
+</td></tr>
+<tr>
+<td>7
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/E.T._the_Extra-Terrestrial" title="E.T. the Extra-Terrestrial">E.T. the Extra-Terrestrial</a></i>
+</th>
+<td style="text-align:right;">$2,815,000,000
+</td>
+<td style="text-align:center;">1982
+</td></tr>
+<tr>
+<td>8
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/The_Ten_Commandments_(1956_film)" title="The Ten Commandments (1956 film)">The Ten Commandments</a></i>
+</th>
+<td style="text-align:right;">$2,665,000,000
+</td>
+<td style="text-align:center;">1956
+</td></tr>
+<tr>
+<td>9
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Doctor_Zhivago_(film)" title="Doctor Zhivago (film)">Doctor Zhivago</a></i>
+</th>
+<td style="text-align:right;">$2,526,000,000
+</td>
+<td style="text-align:center;">1965
+</td></tr>
+<tr>
+<td>10
+</td>
+<th style="text-align:left" scope="row"><i><a href="/wiki/Star_Wars:_The_Force_Awakens" title="Star Wars: The Force Awakens">Star Wars: The Force Awakens</a></i>
+</th>
+<td style="text-align:right;"><sup class="reference plainlinks nourlexpansion" id="ref_The_Force_Awakens"></sup>$2,491,000,000
+</td>
+<td style="text-align:center;">2015
+</td></tr></tbody></table>
 
-Maybe this is interesting because it shows that seven of the most profitable movies were not in the 21st
+This is interesting because it shows that seven of the most profitable movies were not in the 21st
 century ([Wikipedia link](https://en.wikipedia.org/wiki/List_of_highest-grossing_films))
 
 While adjusted revenue is a gauge of the number of people impacted, it doesn’t necessarily reflect the quality of a
