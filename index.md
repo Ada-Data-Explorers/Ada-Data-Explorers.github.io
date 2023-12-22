@@ -29,6 +29,7 @@ sidebar: []
 {% include markdowns/sequels.md %}
 {% include markdowns/famous_actors_producers.md %}
 {% include markdowns/good_and_bad_endings.md %}
+{% include markdowns/conclusion.md %}
 
 
 
