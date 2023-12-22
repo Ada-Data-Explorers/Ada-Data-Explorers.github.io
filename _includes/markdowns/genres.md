@@ -36,7 +36,7 @@ To answer this concern, we repeat the analysis twice:
 2. Considering only 518 randomly picked movies for each genre
 
 ### [Box Plot Random 518 Movies]
-
+![box_plot_of_movie_score_per_genre_random_518.jpg](/assets/images/box_plot_of_movie_score_per_genre_random_518.png)
 ### [Stats Table Random 518 Movies]
 
 Applying both methods, Animation, Fantasy and War film genres still have the highest means and median, and Drama and Comedy still have among the worst means and medians.
