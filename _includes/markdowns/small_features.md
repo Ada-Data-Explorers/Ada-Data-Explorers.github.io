@@ -1,12 +1,12 @@
-### Small Features
+## Small Features
 
-## Country and Language
+### Country and Language
 
 Does language influence the score? Does the country of release influence the score?
 
-# Graph: Total Score throughout the years per country
+## Graph: Total Score throughout the years per country
 
-## Movie Run Time 
+### Movie Run Time 
 
 We set out to understand the relationship between the length of a movie and its score. What do you think we’re going to find? Filming a movie is expensive so each additional minute comes at a significant cost! Intuitively it would seem that longer movies should have higher budgets, and that may influence the quality of the movie. So we expect to find a small correlation between the length of the movie and its score. Now let's see if we are right!
 
@@ -16,7 +16,7 @@ Testing for Pearson correlation between movie runtime and score results in a sta
 
 {% include folder/score_vs_runtime.html %}
 
-## Movie Budget
+### Movie Budget
 
 While there undoubtedly exist cinematic gems crafted on modest budgets, it's essential to acknowledge that financial constraints often shape the scope and scale of a project. What would you do if you became a director? Picture yourself in their chair. Perhaps you’d dream of enlisting A-list actors, assembling an exceptionally talented team, and utilizing innovative equipment. However, the reality is that these come at a high cost. Unless you’ve had past successes, finding the funds for your film will be very challenging. In this context, we sense a relation between a director’s status and the budgets at their disposal. This premise lays the foundation for our hypothesis that budget and score are correlated, which we will now prove!
 
