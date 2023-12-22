@@ -7,7 +7,7 @@ First, please note that for this study, we needed more information about the mov
 ## Ethnicities: 
 Now, how diverse do you think are actors’ ethnicities in the movie industry? One would have thought that the most common ethnicity is “White” (human racial classification), but it turns out that it’s actually “Indian”. 
 
-### Graph: Representation of different ethnicities
+{% include folder/ethnic_inclusivity.html %}
 
 As you can see, some of these ethnicities seem similar, like “American” and “Lebanese American”. Therefore, we decided to generate a network graph presenting ethnicities similarities in the entire film industry (similar ethnicity names are connected with a gray line). Three distinct clusters appear: in the middle, we have the well-known ethnicities, the small “line” on the left represents some extremely close ethnicity names, and the ethnicities forming the outside oval are all unique in a certain way, and don’t resemble other ones. 
 
