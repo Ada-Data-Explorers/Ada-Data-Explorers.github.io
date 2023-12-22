@@ -5,7 +5,7 @@ So stay with us while we explore the impact of the 16 most popular genres on the
 
 To get a global view of our data, let’s start by looking at the 4x4 subplots representing the distribution of the movie score per genre.
 
-![4x4 Plots](/assets/images/needed.png)
+![4x4 Plots](/assets/images/distribution_of_movie_score_per_genre.png)
 
 From these 4x4 subplots, some trends begin to arise. It seems like our movies are very imbalanced in their genres. Interestingly, it also seems like the less frequent genres are centered around higher movie scores than the more frequent ones. That’s intriguing, isn’t it? We are curious to know how that is possible, so we are going to look into the exact frequency of movies per genre through a pie chart, and then visualize movie score statistics per genre through box plots. 
 
