@@ -1,4 +1,4 @@
-### Movie Diversity 
+# Movie Diversity 
 
 Ready to spice up our movie formula? Let’s move on to a topic that is becoming increasingly pivotal with time: movie diversity. When watching a movie, we want to match with the characters which is facilitated by physical resemblance, common origins, or similar gender identities. So come with us to analyze how we measure diversity, and how it contributes to movie success. 
 
@@ -14,6 +14,8 @@ As you can see, some of these ethnicities seem similar, like “American” and 
 {% include folder/ethnic_network.html %}
 
 Next, we define a diversity threshold: movies with at least three different ethnicities are considered diverse. 
+
+### GRAPH HISTOGRAM 
 
 As seen on the left histogram, movies all have more than 3 different ethnicities. However, that is not actually true. For example, some movies say they cast actors from 2 ethnicities “American German and German American”, but these are technically the same, so they should not be counted twice. Which is why we also established the histogram on the right, after having removed these duplicates. We notice that most movies cast actors from 2 to 4 different ethnicities. This distribution reflects producers’ effort towards making their movies more inclusive, grouping actors from different cultural backgrounds. 
 
