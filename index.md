@@ -20,6 +20,7 @@ tags:
 top: 20
 sidebar: []
 ---
+{% include markdowns/preintro.md %}
 {% include markdowns/great_movie.md %}
 {% include markdowns/score.md %}
 {% include markdowns/small_features.md %}
