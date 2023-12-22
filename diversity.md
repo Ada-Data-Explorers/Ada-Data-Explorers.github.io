@@ -7,21 +7,20 @@ First, please note that for this study, we needed more information about the mov
 ## Ethnicities: 
 Now, how diverse do you think are actors’ ethnicities in the movie industry? One would have thought that the most common ethnicity is “White” (human racial classification), but it turns out that it’s actually “Indian”. 
 
-{% include folder/ethnic_inclusivity.html %}
 
 As you can see, some of these ethnicities seem similar, like “American” and “Lebanese American”. Therefore, we decided to generate a network graph presenting ethnicities similarities in the entire film industry (similar ethnicity names are connected with a gray line). Three distinct clusters appear: in the middle, we have the well-known ethnicities, the small “line” on the left represents some extremely close ethnicity names, and the ethnicities forming the outside oval are all unique in a certain way, and don’t resemble other ones. 
 
-### Graph: Network Graph - Ethnicities
+{% include folder/ethnic_network.html %}
 
 Next, we define a diversity threshold: movies with at least three different ethnicities are considered diverse. 
 
-### Histograms: Ethnicities
+{% include folder/ethnic_category.html %}
 
 As seen on the left histogram, movies all have more than 3 different ethnicities. However, that is not actually true. For example, some movies say they cast actors from 2 ethnicities “American German and German American”, but these are technically the same, so they should not be counted twice. Which is why we also established the histogram on the right, after having removed these duplicates. We notice that most movies cast actors from 2 to 4 different ethnicities. This distribution reflects producers’ effort towards making their movies more inclusive, grouping actors from different cultural backgrounds. 
 
 Now, does being more inclusive mean being more successful? It seems like it! After doing some statistical tests, we obtain that with 95% confidence, the mean movie score of inclusive movies (number of ethnicities above threshold) falls within the range [66.0940, 66.6166]. The mean movie score of exclusive movies, however, is between [62.5040, 63.7419]. This can also be seen in the below point plot. 
 
-### Graph: Point Plot Ethnicities
+{% include folder/ethnic_inclusivity.html %}
 
 
 ## Genders: 
@@ -29,11 +28,11 @@ Join us now while we delve into another integral inclusivity feature: gender rep
 
 Below, you can see the number of movies per percentage of male actors. It looks like a gaussian distribution centered around 0.65, which explains the 88.62% value. 
 
-### Graph: Gaussian Distribution: 
+{% include folder/distribution_of_movie_score_per_genre.png %}
 
 We then obtained surprising results: gender imbalanced movies had an average mean movie score within [67.6733, 68.5867], which is higher than [65.6577, 67.1005], within which gender balanced movies’ mean movie score lie, both with 95% confidence. 
 
-### Graph: Point Plot Genders
+{% include folder/gender_balance.html %}
 
 So till now, movies with more gender imbalance have been more successful. However, this is unethical, and in a world where we are all constantly fighting for equal gender rights and representation, we will not encourage producing movies with more male actors, than female actresses. We advocate for a diverse and gender inclusive and balanced filmmaking industry that is more creative and authentic, that reflects our society and that connects with a broader and more diverse audience. 
 
