@@ -5,7 +5,7 @@ sidebar: archive-list
 
 {%- if site.posts.size > 0 -%}
 
-  {% include functions.html func='log' level='debug' msg='Get datetimes value' %}
+<!--   {% include functions.html func='log' level='debug' msg='Get datetimes value' %}
 
   {% assign filter = '%Y' %}
   {% include functions.html func='get_datetimes' %}
@@ -13,6 +13,6 @@ sidebar: archive-list
 
   {% assign keys = datetimes | reverse %}
   {% assign field = 'date' %}
-  {% include views/segments.html %}
+  {% include views/segments.html %} -->
 
 {%- endif -%}
