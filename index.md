@@ -7,7 +7,7 @@ categories: jekyll
 banner:
   video: /assets/videos/nolan.mp4
   loop: true
-  volume: 0.8
+  volume: 0.4
   start_at: 8.5
   image: 
   opacity: 0.618
