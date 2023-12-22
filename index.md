@@ -1,16 +1,16 @@
 ---
 layout: post
 title: The formula for a perfect movie
-subtitle: A awesome static site generator.
-author: Jeffrey
+subtitle: A data-driven story from DataExplorers...
+author: DataExplorers
 categories: jekyll
 banner:
   video: /assets/videos/nolan.mp4
   loop: true
-  volume: 0.3
-  start_at: 0
+  volume: 0.8
+  start_at: 8.5
   image: https://bit.ly/3xTmdUP
-  opacity: 0.550
+  opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
@@ -20,4 +20,6 @@ tags: jekyll theme yat
 top: 1
 sidebar: []
 ---
-HELLO, its me
+
+
+
