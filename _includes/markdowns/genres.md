@@ -15,7 +15,7 @@ This pie chart unveils intriguing patterns, showcasing the prevalence of Drama a
 
 Confronted with these findings, a question emerges: Could the prolific release of movies in certain genres be attributed to a strategic understanding by directors of their greater success? So now that we have a better knowledge of movie-genre proportions, let’s see if the abundance of a genre correlates with the movie scores it achieves. With that in mind, we will use boxplots to visualize the distributions of movie scores for each genre. 
 
-![Box Plots All](/assets/images/box_plot_of_movie_score_per_genre.jpg)
+![Box Plots All](/assets/images/box_plot_of_movie_score_per_genre.png)
 
 {% include folder/general_stats_df.html %}
 
