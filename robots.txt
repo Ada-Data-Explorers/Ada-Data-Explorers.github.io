@@ -1,0 +1,1 @@
+Sitemap: ada-data-explorers.github.io/jekyll-theme-yat/sitemap.xml
