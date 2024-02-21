@@ -1,4 +1,4 @@
-# Famous Actors
+## Famous Actors
 Intuitively, the cast of a movie has a significant influence on its success. Indeed, if an A-list actor announces their new movie then many of their fans will rush to cinemas to watch the newest masterpiece. This is especially true for successful actor duos. For instance, if the funniest duo (in our opinion of course😂), The Rock and Kevin Hart, act in a movie, not only would we all go watch it, exploding the box office revenue, but also the movie would naturally be a success.
 
 In light of this information, we want to come up with a metric for measuring an actor’s popularity. Ideally, we would like to use Google Trends however many movies in our dataset were made long before social media 😅. But fear not, as we have found a clever solution to solve this issue
@@ -18,7 +18,7 @@ Let’s look together at the plot of actors’ popularity as well as mean movie 
 Looking at these plots, we can see that the actors start at 0, but quickly reach top scores due to the nature of our metric. Furthermore, since the metric itself is defined as a derivative of the movie score, it is natural for it to follow the score trend.
 
 The visual similarities in the two curves tempt us to try and predict movie score based solely on actors’ popularity. The big question becomes: Can we define an accurate movie score predictor based solely on the actors in its cast?
-## Predictor
+### Predictor
 The predictor that we propose takes the score of the top actors and returns their average. motivated to find the best model, we can tweak the number of actors considered in our mean. 
 {% include folder/actors_dummy_ml_model.html %}
 The graph above represents the mean movie score over the years and the mean predictions for the same years, both with a 95% confidence interval. Note that you can change views to see how the model performs when you consider different numbers of actors. 
@@ -27,7 +27,7 @@ The results when considering a single actor are quite impressive. In other words
 
 These findings underscore the significant influence that actors can wield in shaping a movie's success. Shedding light on why some of them are paid so well!
 
-# Famous Producers
+## Famous Producers
 
 Behind every good movie is a good producer, right? This leads us to this new analysis, revolving around Producers’ Fame. 
 
