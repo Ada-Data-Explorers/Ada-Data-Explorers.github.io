@@ -138,9 +138,8 @@ We define the score as a function composed of two components:
 - **BORC**    : Box Office Revenue Component
 - **RC**      : Rating Component
 
-These components can be computed with the Adjusted Movie Revenue (which we write define as **AMR**) and the movie
-rating (
-we will write as **MR**)
+These components can be computed with the Adjusted Movie Revenue (which we write as **AMR**) and the movie
+rating (we will write as **MR**)
 
 We log-transform the data and define **x = log(AMR)** and **y = MR**
 
@@ -149,6 +148,10 @@ $$
 BORC = \frac{x - \min(x)}{\max(x) - \min(x)}\\
 RC = \frac{y - \min(y)}{\max(y) - \min(y)}
 \end{cases}
+$$
+
+$$
+score = \alpha BORC + \left(1 - \alpha\right) RC
 $$
 
 Note that we can tune alpha to increase the relative importance of one of the components. In the end, we chose to have
