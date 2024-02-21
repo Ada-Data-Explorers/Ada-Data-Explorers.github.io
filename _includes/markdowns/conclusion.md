@@ -3,10 +3,10 @@ Returning to solid ground after a thrilling exploration of the cinematic cosmos,
 
 Now, as we stand at the crossroads of our cinematic exploration, the time has come to consolidate our findings. We will embark on a comprehensive analysis, employing linear regression with all our features to unveil the intricate interplay of factors influencing movie scores. This holistic approach allows us to examine the collective impact of various elements and identify the features with the highest weights in shaping the success of a movie.
 
-# Linear Regression:
+### Linear Regression:
 While we embark on this linear regression that will participate in building our final formula there are multiple things that we must consider. Firstly, it is essential that all our features be normalized so that the learned weights will reflect better the importance of each feature. Then the big question that we must answer is the following: What features are we going to include? One could say that we should include all of them as we want the most accurate model possible; however, in light of the influence that we found gender imbalance to have on movie score, we chose to ignore it in our model. Indeed, we do not want to propagate unethical analytics that could be used to perpetuate inequality. Additionally, we chose not to include whether a movie is a sequel from a movie series as our findings showed that sequels are nuanced and can't simply be applied to any movie to have success. In the end, we have a set of 123 features.
 
-# Results
+### Results
 The R-squared value is a statistical measure that represents the proportion of the variance in the dependent variable (in this case, movie score) that is explained by the independent variables (features) in the linear regression model. The R^2 value ranges from 0 to 1, with 0 indicating that the model does not explain any variance, and 1 indicating that the model perfectly explains the variance in the dependent variable.
 
 In our case, an R^2 value of 0.29 means that approximately 29% of the variability in movie scores can be explained by the features included in our linear regression model. While it doesn't account for the entirety of the variance, it indicates a substantial portion of the variation is accounted for, providing a reasonable level of confidence in the results obtained. But what are the findings?
@@ -31,7 +31,7 @@ Finally, we’d like to add that as we discovered in this data story, sequels na
 
 In conclusion, the derived formula encapsulates a multi-faceted understanding of movie success, considering factors ranging from runtime and ethnic diversity to genre, country of origin, and language. 
 
-# Closing remarks
+## Closing remarks
 
 As we bring this cinematic journey to a close, we invite you, the reader, to reflect once again on the intricacies of your cinematic preferences. Our exploration into the realms of movie scores, genres, and diverse features has unraveled many mysteries of the cinematic universe. If anything, we shed light on the complexities of this world, yet we hope that we succeeded in providing you with a better understanding of it. We encourage you to continue this exploration discovering new worlds, forging connections with unforgettable characters, and embarking on new journeys. Remember! Enjoy the moments of laughter and tears as you create everlasting memories.
 
