@@ -1,7 +1,7 @@
-# Good or Bad Ending
+## Good or Bad Ending
 Transitioning into the exploration of how the type of movie ending influences its success, we invite you to reflect on those moments when you left a theater with tears streaming down your face or laughter echoing in your ears. The strong emotions that you can get in the closing scenes are likely to leave a lasting impression. For instance, the sad farewell to Iron Man left many viewers (including us) in tears, evidence of the power of an emotional ending. It remains noteworthy that movie-goers desire different emotions from various genres. Indeed, a Horror movie with a happy ending would probably be disappointing, whereas it is exactly what we love in their Animated counterparts. Additionally, we could also expect the intensity of the sentiment to have an influence, as the impression of a high-intensity ending leaves a mark.
 
-## Sentiment Extraction
+### Sentiment Extraction
 But how can we extract the intensity and sentiment of endings from the data that we have? Navigating, through our dataset, we found a creative solution. Firstly, we determined that we could extract the endings from the last three sentences of the plot descriptions, which we had in our data. Then all we had to do was to use open-source models to extract the sentiment from the text. Easy!
 
 To give you more visibility on the matter, here’s an example that’ll surely help. We will take the example of the world-renowned masterpiece, The Lion King. 
