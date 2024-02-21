@@ -1,6 +1,6 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-# Score
+## Score
 
 As we begin this journey, there is one essential question that we must answer! **How do we measure movie greatness?**
 
