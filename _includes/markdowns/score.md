@@ -150,8 +150,10 @@ RC = \frac{y - \min(y)}{\max(y) - \min(y)}
 \end{cases}
 $$
 
+We can finally define the final movie score as 0 to 100 score, with the better movies having a higher score.
+
 $$
-score = \alpha BORC + \left(1 - \alpha\right) RC
+MovieScore = 100\left(\alpha BORC + (1 - \alpha) RC \right)
 $$
 
 Note that we can tune alpha to increase the relative importance of one of the components. In the end, we chose to have
