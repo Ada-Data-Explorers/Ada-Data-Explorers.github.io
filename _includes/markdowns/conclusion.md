@@ -15,7 +15,7 @@ In the graph below, we presented the top 20 (in green) and worst 21 (in red) fea
 
 {% include folder/new.html %}
 
-## Building our Formula for a Great Movie
+### Building our Formula for a Great Movie
 
 The linear regression model analysis sheds light on the intricate tapestry of factors influencing movie scores, offering a nuanced understanding of what contributes to cinematic success. At the forefront, the positive impact of runtime suggests that audiences tend to appreciate movies with longer durations, allowing for more in-depth storytelling or character development. Moreover, the emphasis on ethnic diversity, as indicated by the second highest weight for the ethnic count, underscores the growing recognition of the importance of representation in cinema, contributing positively to audience engagement and appreciation.
 
@@ -31,7 +31,7 @@ Finally, we’d like to add that as we discovered in this data story, sequels na
 
 In conclusion, the derived formula encapsulates a multi-faceted understanding of movie success, considering factors ranging from runtime and ethnic diversity to genre, country of origin, and language. 
 
-### Closing remarks
+# Closing remarks
 
 As we bring this cinematic journey to a close, we invite you, the reader, to reflect once again on the intricacies of your cinematic preferences. Our exploration into the realms of movie scores, genres, and diverse features has unraveled many mysteries of the cinematic universe. If anything, we shed light on the complexities of this world, yet we hope that we succeeded in providing you with a better understanding of it. We encourage you to continue this exploration discovering new worlds, forging connections with unforgettable characters, and embarking on new journeys. Remember! Enjoy the moments of laughter and tears as you create everlasting memories.
 
