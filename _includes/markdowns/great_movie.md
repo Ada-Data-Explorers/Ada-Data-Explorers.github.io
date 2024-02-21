@@ -1,6 +1,6 @@
 ## What makes a movie truly great?
 
-## Introduction
+### Introduction
 
 Welcome to our data story! Today you will embark with us on an exhilarating journey across the cinematic universe. Brace
 yourself for unexpected twists and turns. Before we start, we will explore the complex landscape of movie scores, where
@@ -12,7 +12,7 @@ Similarly, we will traverse its parallel universe of movie directors. Finally, w
 where we will combine our insights to build the formula for a great movie. So without further ado, please sit back, grab
 your popcorn, and follow us on this quest. Together, let's uncover the secrets that make a movie truly unforgettable!
 
-## Our Data
+### Our Data
 
 A famous saying in data science that stresses the importance of valuable data goes as follows: “Garbage in, garbage
 out”. In our case, it implies that if we want to extract valuable insights then we must enrich and preprocess our data.
