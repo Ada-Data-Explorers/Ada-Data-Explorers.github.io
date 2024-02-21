@@ -1,4 +1,4 @@
-# Movie Sequels
+## Movie Sequels
 
 Let's now venture into the realm of sequels. A movie's typical duration, spanning from one and a half to three hours, often feels too short a time to dive into a world and create profound relationships with its characters. We’d like you to think about the character that you love the most. Was that relationship built across multiple films or just a single one? Movie series offer a solution, providing a canvas to witness the evolution of characters over time. Many of the most iconic blockbusters fall into that category: Star Wars, Avatar, and the Marvel Cinematic Universe movies. This begs the question: are sequels, in general, a crucial element in the formula for a successful movie?
 
