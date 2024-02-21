@@ -42,13 +42,6 @@ sidebar:
           {%- if post.top -%}
             {%- assign post_item_class = "top-post" -%}
           {%- endif -%}
-        <li class="{{ post_item_class }}">
-          <a class="post-link"
-            href="{{ post.url | relative_url }}"
-            title="{{ post.title | escape }}">
-            {%- include views/post-badges.html -%}
-          </a>
-        </li>
         {%- endfor -%}
       </ul>
     </div>
