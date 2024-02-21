@@ -1,4 +1,4 @@
-# Genres
+## Genres
 
 Our quest for the perfect movie formula leads us here, to the vast and diverse world of genres. Genres are the core of cinematic diversity, shaping a film's storyline, tone, and emotional connection: elements that immerse you in a new world. 
 So stay with us while we explore the impact of the 16 most popular genres on the movie score. There is so much more to discover together! 
